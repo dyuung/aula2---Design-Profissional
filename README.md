@@ -49,7 +49,9 @@
 (https://github.com/dyuung/aula2---Design-Profissional)
 
 
-[abra arquiv](outro.md)
+[abra arquiv]
+
+(outro.md)
 
 ## cod em linha e blocos
 
@@ -62,4 +64,38 @@ git commit -m "descriçao"
 git push origin main
 ```
 
+
+# citaçoes 
+
+
+```
+Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+```
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas
+
+| Tecnologia | Finalidade |
+| --- | --- |
+| Git | Controle de Versões |
+| Github | Hospedagem e colaboração | 
+Markdown | Documentação
+
+| Alinhado a esquerda | Alinhado ao centro | Alinhado a Direita
+| --- | --- | --- |
+| Texto | Texto | Texto
+
+
+
+
+
+## imagens
+
+![quilombo guarani](./![alt text](image.png))
+
+![pessoal do qg](![alt text](image-2.png))
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+
+![Anta Badge](https://img.shields.io/badge/Anta-D70010?logo=anta&logoColor=fff&style=for-the-badge)
 
